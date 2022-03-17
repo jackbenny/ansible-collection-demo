@@ -13,11 +13,11 @@ check if a value is greater than 50.
 This collection contains the following:
 
 * roles
-  * base
-  * update_cache
+    * base
+    * update_cache
 
 * modules
-  * dummy
+    * dummy
 
 ## Example usage
 
