@@ -1,0 +1,19 @@
+namespace: jackbenny
+name: demo
+version: 0.0.1
+readme: README.md
+authors:
+- Jack-Benny Persson <jack-benny@cyberinfo.se>
+description: Demonstration of a collection for my book about Ansible
+license:
+- GPL-2.0-or-later
+tags:
+  - system
+  - demo
+dependencies: {}
+build_ignore: []
+
+repository: https://github.com/jackbenny/ansible-collection-demo
+documentation: https://github.com/jackbenny/ansible-collection-demo
+homepage: https://github.com/jackbenny/ansible-collection-demo
+issues: https://github.com/jackbenny/ansible-collection-demo/issues

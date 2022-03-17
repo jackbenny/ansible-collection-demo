@@ -1,0 +1,13 @@
+- name: Install common tools
+  package:
+    name: "{{ item }}"
+  with_items:
+    - curl
+    - gnupg
+    - vim
+    - ca-certificates
+    - s-nail
+
+- name: Set the timezone
+  timezone:
+    name: "{{ timezone }}"
